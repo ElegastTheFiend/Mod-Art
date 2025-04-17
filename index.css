@@ -1,5 +1,6 @@
 .user {
     color: #dda0dd;
+    text-align: center;
 }
 
 footer {
@@ -77,8 +78,8 @@ footer {
     }
     .home-image {
         height: auto;
-        width: 75%;
-        padding-left: 5%;
+        width: 85%;
+        padding-left: 10%;
     }
     h1 {
         font-size: 70px;

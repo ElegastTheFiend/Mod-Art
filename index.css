@@ -44,6 +44,7 @@ footer {
     .home-image {
         height: 175px;
         width: 175px;
+        padding-left: 30%;
     }
     h1 {
         font-size: 70px;

@@ -43,14 +43,13 @@ footer {
     display: flex;
 }
 .showcase-description {
-    width: 50%;
+    text-align: center;
 }
 .showcase-gallery {
-    width: 50%;
     display: flex;
 }
 .showcase-image {
-    width: 64px;
+    width: 128px;
     height: auto;
 }
 

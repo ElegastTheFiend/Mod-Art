@@ -1,5 +1,5 @@
-h1.user {
-    color: plum;
+.user {
+    color: #dda0dd;
 }
 
 footer {
@@ -55,6 +55,9 @@ footer {
 
     .social-img {
         height: 50px;
+    }
+    .profile {
+        display: flex;
     }
 }
 

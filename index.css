@@ -32,6 +32,28 @@ footer {
     flex:auto;
     flex-direction: column;
 }
+.showcase {
+    width:100%
+}
+.mod-title {
+    color:springgreen
+}
+.showcase-content {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.showcase-description {
+    width: 50%;
+}
+.showcase-gallery {
+    width: 50%;
+    display: flex;
+}
+.showcase-image {
+    width: 64px;
+    height: auto;
+}
 
 @media (orientation: landscape) {
     .outer-container {

@@ -1,0 +1,66 @@
+html,
+body {
+    background-image: url("images/website_bg.png");
+    font-family: 'Playfair Display', serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    /* Ugly fix for vertical scrollbar on Chromium Based Browsers */
+    overflow-x: hidden;
+}
+
+p {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+ul li {
+    color: #ffffff;
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo {
+    margin-right: 0px;
+    padding-right: 20px;
+}
+
+.site-title {
+    color: springgreen;
+    float: right;
+}
+
+@media (orientation: portrait) {
+    .site-title {
+        font-size: 50px;
+    }
+
+    .logo {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (orientation: landscape) {
+    .logo {
+        width: 50px;
+        height: 50px;
+    }
+}

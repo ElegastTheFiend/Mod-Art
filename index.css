@@ -47,6 +47,7 @@ footer {
 }
 .showcase-gallery {
     display: flex;
+    width: 512px;
 }
 .showcase-image {
     width: 128px;

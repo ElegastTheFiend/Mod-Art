@@ -46,12 +46,17 @@ footer {
     text-align: center;
 }
 .showcase-gallery {
-    display: flex;
     width: 512px;
 }
 .showcase-image {
     width: 128px;
     height: auto;
+}
+.bio {
+    text-align: center;
+}
+.gallery-row {
+    display: flex;
 }
 
 @media (orientation: landscape) {

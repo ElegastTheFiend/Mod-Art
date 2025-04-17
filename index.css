@@ -35,7 +35,8 @@ footer {
     width:100%
 }
 .mod-title {
-    color:springgreen
+    color:springgreen;
+    text-align: center;
 }
 .showcase-content {
     align-items: center;
@@ -47,10 +48,13 @@ footer {
 }
 .showcase-gallery {
     width: 512px;
+    padding-left: 30%;
 }
 .showcase-image {
     width: 128px;
     height: auto;
+    padding-left: 32px;
+    padding-top: 32px;
 }
 .bio {
     text-align: center;
